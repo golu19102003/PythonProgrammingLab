@@ -1,7 +1,10 @@
-![image](https://github.com/user-attachments/assets/88555ffe-a2fa-4460-be76-f0acbf4e4411)
-![image](https://github.com/user-attachments/assets/e1876083-506a-4315-9869-a0e9419a4cdd)![image](https://github.com/user-attachments/assets/b25b2e1e-2a33-4ddf-9891-aea9e9cc4a2a)
+![image](https://github.com/user-attachments/assets/e1876083-506a-4315-9869-a0e9419a4cdd)
+![mind map to learn python #python #programming #programminglife #learnpython #linux](https://github.com/user-attachments/assets/39801503-bca7-46b8-ab0d-2b657829f855)
+![download](https://github.com/user-attachments/assets/b946360b-b5d2-42a0-a0f5-5f72d0c5c5ff)
+![image](https://github.com/user-attachments/assets/b25b2e1e-2a33-4ddf-9891-aea9e9cc4a2a)
 ![image](https://github.com/user-attachments/assets/9ab7d0c8-b387-42cc-bd24-597fc0f90ac6)
 ![image](https://github.com/user-attachments/assets/8d107bb7-0ed2-4417-868d-93d3884407dd)
+![image](https://github.com/user-attachments/assets/b8191bc3-dee0-49a2-a13a-f3f037ef5fd0)
 # PythonProgrammingLab
 All Program of 6th Sem Python Programming Lab. These Program includes the explaination & basics of lists, tuples, data-types, functions, dictionary, loops, operators, sorting methods, strings & sets etc.
 ## Introduction to RTU Python Programming Lab (for README)
